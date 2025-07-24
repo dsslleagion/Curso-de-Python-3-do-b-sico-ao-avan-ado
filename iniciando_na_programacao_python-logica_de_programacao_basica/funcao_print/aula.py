@@ -1,6 +1,8 @@
 # função de exibição que recebe argumentos 
 print(12, "olá", 1213123)
+print(12, "olá", 1213123)
 # exemplo citados 3 argumentos
+# Saida: 12 olá 1213123
 # Saida: 12 olá 1213123
 # por padrão o print coloca espaço entre os argumentos para a sua exibição
 
